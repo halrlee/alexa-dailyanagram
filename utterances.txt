@@ -1,0 +1,52 @@
+getDailyAnagramIntent what is todays word
+getDailyAnagramIntent give me todays word
+getDailyAnagramIntent tell me todays word
+getDailyAnagramIntent what is todays anagram
+getDailyAnagramIntent give me todays anagram
+getDailyAnagramIntent tell me todays anagram
+
+answerAnagramIntent is todays word {anagramAnswer}
+answerAnagramIntent i think todays word is {anagramAnswer}
+answerAnagramIntent could today's word be {anagramAnswer}
+answerAnagramIntent is the anagram {anagramAnswer}
+answerAnagramIntent yes is it {anagramAnswer}
+answerAnagramIntent is it {anagramAnswer}
+answerAnagramIntent is the answer {anagramAnswer}
+answerAnagramIntent yes is the answer {anagramAnswer}
+
+
+giveUpIntent I give up
+giveUpIntent tell me what it is
+giveUpIntent I don't know
+giveUpIntent what is the answer
+
+
+nextDayIntent next day
+nextDayIntent next word
+
+hearItAgainIntent hear it again
+hearItAgainIntent tell me again
+hearItAgainIntent repeat the question
+hearItAgainIntent repeat the anagram
+hearItAgainIntent yes repeat the question
+hearItAgainIntent yes repeat the anagram
+
+
+noIntent no thank you
+noIntent never mind
+noIntent go away
+
+
+clueIntent give me a clue
+clueIntent can you give me a clue
+clueIntent can I have a clue
+clueIntent can you help me
+clueIntent please give me a clue
+clueIntent I would like a clue
+clueIntent I need a clue
+clueIntent give me another clue
+clueIntent can you give me another clue
+clueIntent can I have another clue
+clueIntent please give me another clue
+clueIntent I would like a another clue
+clueIntent I need another clue
